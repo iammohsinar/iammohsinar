@@ -1,5 +1,16 @@
 <h1 align="left">👋 Hi there, I am Mohsin Azeem</h1>
 
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://komarev.com/ghpvc/?username=iammohsinar&color=ff69b4&style=for-the-badge" />
+</div>
+
+###
+
 ###
 
 <p align="left">I am a Senior Software Engineer and Open Source Contributor with over a 10 years of hands-on experience in software development. My expertise lies in designing and building distributed systems and cloud-native applications using modern technologies. I am deeply passionate about knowledge sharing, whether through open-source contributions, technical writing, public talks, or mentoring others in the tech community.</p>
