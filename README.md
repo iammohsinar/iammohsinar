@@ -62,11 +62,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iammohsinar.iammohsinar&left_text=Profile%20views"  />
-</div>
-
-###
