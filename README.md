@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨</p>
+<p align="left">🧵 https://github.com/iammohsinar/multithreading-in-java   </p> 
 
 ###
 
