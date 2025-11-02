@@ -21,8 +21,8 @@
 
 ###
 
-<p align="left">🧵 https://github.com/iammohsinar/multithreading-in-java   </p> 
-<p align="left">🛒 https://github.com/iammohsinar/ecommerce-microservices   </p> 
+- 🧵 https://github.com/iammohsinar/multithreading-in-java
+- 🛒 https://github.com/iammohsinar/ecommerce-microservices
 
 ###
 
