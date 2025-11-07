@@ -23,7 +23,7 @@
 
 - 🧵 https://github.com/iammohsinar/multithreading-in-java
 - 🛒 https://github.com/iammohsinar/ecommerce-microservices
-- 🧅 https://github.com/iammohsinar/onion-architecture
+- 🧅 https://github.com/iammohsinar/bankledger-onion-architecture
 
 ###
 
